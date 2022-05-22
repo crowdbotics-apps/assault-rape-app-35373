@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'assault_rape_app_35373.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "assault_rape_app_35373.settings")
 
 application = get_wsgi_application()
